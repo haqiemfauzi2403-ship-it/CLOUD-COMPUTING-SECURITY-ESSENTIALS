@@ -2,7 +2,9 @@
 **Course:** IKB42603 Cloud Computing Security Essentials  
 **Institution:** Universiti Kuala Lumpur - Malaysian Institute of Information Technology (UniKL MIIT)  
 **Instructor:** Prof. Dr. Shahrulniza Musa  
-**Student Name:** Muhammad Haqiem Fauzi  
+**Student Name:** Muhammad Haqiem Bin Mohd Fauzi  
+**Student ID** 52215225398
+**Lecturer** Ms. Adani
 **Topic:** Centralised Logging, Tamper-Proof Logs, Threat Detection and Incident Response — Docker & LocalStack  
 
 ---
